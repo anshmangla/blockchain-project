@@ -4,7 +4,7 @@ import axios from 'axios';
 import './App.css';
 import FileStorageABI from './FileStorageABI.json';
 
-const contractAddress = '0x45EfDEE16B8915f58386a354fB945dd2d98FD196';
+const contractAddress = '0x05E3ff9aD4B4A09bfAA5B8484686450B863461A4';
 
 function App() {
   const [file, setFile] = useState(null);
